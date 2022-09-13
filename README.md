@@ -5,7 +5,7 @@ Social Media APi project in NodeJS
     - MongoDB
     - NPM
     
-- Api Testing Tool
+- Api Testing Tool -
      -PostMan
 
 - Setting up the project
